@@ -1,6 +1,6 @@
-# Loja Roupas React
+# Active Style
 
-Esta aplicação é um projeto de uma loja fictícia de roupas desenvolvido em React. O principal objetivo é demonstrar o uso de **componentização**, **gerenciamento de estado** e boas práticas de desenvolvimento front-end.
+Projeto como requisito para Pós Graduação em Desenvolvimento FullStack PucRio, para Desenvolvimento Front-End Avançado. Esta aplicação é um projeto de uma loja fictícia de roupas desenvolvido em React. O principal objetivo é demonstrar o uso de **componentização**, **gerenciamento de estado** e boas práticas de desenvolvimento front-end.
 
 ## 💡 Sobre a Aplicação
 A aplicação simula uma loja virtual com funcionalidades básicas como:
@@ -12,25 +12,10 @@ A aplicação simula uma loja virtual com funcionalidades básicas como:
 
 Este projeto é um exemplo de como criar uma interface reutilizável, modular e responsiva.
 
-## 📂 Estrutura de Diretórios
-A estrutura de diretórios do projeto foi organizada da seguinte forma:
-
-```
-├── public/           # Arquivos públicos
-├── src/              # Código-fonte principal
-│   ├── components/   # Componentes reutilizáveis (Button, Layout, etc.)
-│   ├── context/      # Contextos para gerenciamento de estado (CartContext)
-│   ├── pages/        # Páginas principais da aplicação (Home, Products, Register, Login)
-│   ├── styles/       # Arquivos de estilo
-│   ├── App.js        # Componente raiz
-│   ├── index.js      # Ponto de entrada da aplicação
-├── package.json      # Configurações do projeto e dependências
-```
-
 ## 🛠️ Funcionalidades
 
 ### **Componentização**
-- Componentes reutilizáveis como `Button`, `Layout`, `ProductCard` e `ProductGrid` garantem a consistência visual e a economia de código.
+- Componentes reutilizáveis como `Button`, `Layout`, `ProductCard` e `ProductGrid` garantem a consistência visual do código.
 
 ### **Consumo de API**
 - A página de produtos consome dados da [Fake Store API](https://fakestoreapi.com/) para listar itens fictícios e aplica traduções e conversões de preço.
@@ -62,14 +47,8 @@ A estrutura de diretórios do projeto foi organizada da seguinte forma:
 ### Passos para execução
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/loja-roupas-react.git
-   ```
-
+  
 2. Navegue até o diretório do projeto:
-   ```bash
-   cd loja-roupas-react
-   ```
 
 3. Instale as dependências:
    ```bash
@@ -83,18 +62,7 @@ A estrutura de diretórios do projeto foi organizada da seguinte forma:
 
 5. Acesse a aplicação no navegador:
    ```
-   http://localhost:8080
+   http://localhost:3000
    ```
-
-## 📸 Capturas de Tela
-
-### Página Inicial
-![Página Inicial](https://via.placeholder.com/800x400?text=Página+Inicial)
-
-### Produtos
-![Produtos](https://via.placeholder.com/800x400?text=Produtos)
-
-### Cadastro
-![Cadastro](https://via.placeholder.com/800x400?text=Cadastro)
 
 
