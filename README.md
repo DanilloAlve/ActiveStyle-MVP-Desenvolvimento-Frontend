@@ -2,7 +2,7 @@
 
 Projeto como requisito para Pós Graduação em Desenvolvimento FullStack PucRio, para Desenvolvimento Front-End Avançado. Esta aplicação é um projeto de uma loja fictícia de roupas desenvolvido em React. O principal objetivo é demonstrar o uso de **componentização**, **gerenciamento de estado** e boas práticas de desenvolvimento front-end.
 
-Prototipação em Figma
+# Prototipação em Figma
    ```bash
 https://www.figma.com/proto/TqRgqE7StnG6TTt0ggNe7t/esse?node-id=14-8&node-type=canvas&t=0V9CulK2qHn6bQmX-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=14%3A8
    ```
