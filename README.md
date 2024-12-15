@@ -1,6 +1,6 @@
 # Active Style
 
-Projeto como requisito para Pós Graduação em Desenvolvimento FullStack PucRio, para Desenvolvimento Front-End Avançado. Esta aplicação é um projeto de uma loja fictícia de roupas desenvolvido em React. O principal objetivo é demonstrar o uso de **componentização**, **gerenciamento de estado** e boas práticas de desenvolvimento front-end.
+Projeto como requisito para Pós Graduação em Desenvolvimento FullStack PucRio, para Desenvolvimento Front-End Avançado. Esta aplicação é um projeto de uma loja fictícia de roupas desenvolvido em React. O principal objetivo é demonstrar o uso de componentização, gerenciamento de estado e boas práticas de desenvolvimento front-end.
 
 # Prototipação em Figma
    ```bash
