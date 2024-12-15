@@ -25,9 +25,6 @@ Este projeto é um exemplo de como criar uma interface reutilizável, modular e 
 ### **Consumo de API**
 - A página de produtos consome dados da [Fake Store API](https://fakestoreapi.com/) para listar itens fictícios e aplica traduções e conversões de preço.
 
-### **Gerenciamento de Estado com Context API**
-- O `CartContext` gerencia o estado do carrinho de compras, permitindo adicionar e manipular produtos de qualquer parte da aplicação.
-
 ### **Validação de Formulários**
 - Os formulários de Login e Cadastro validam dados do usuário e exibem mensagens de erro, como verificação de senhas que não coincidem.
 
