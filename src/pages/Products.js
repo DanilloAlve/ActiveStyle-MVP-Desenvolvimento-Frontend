@@ -12,22 +12,22 @@ const Products = () => {
         const translations = {
             1: {
                 title: "Mochila Elegante",
-                description: "Spacious and stylish backpack, perfect for everyday use. It features multiple compartments and a modern design.",
+                description: "Mochila espaçosa e elegante, perfeita para o dia a dia. Possui compartimentos múltiplos e design moderno.",
                 price: product.price * 4.95
             },
             2: {
                 title: "Camiseta Slim Fit",
-                description: "Men's premium cotton t-shirt, with a modern and comfortable fit. Ideal for all occasions.",
+                description: "Camiseta masculina de algodão premium, corte moderno e confortável. Ideal para todas as ocasiões.",
                 price: product.price * 4.95
             },
             3: {
                 title: "Jaqueta Casual",
-                description: "Lightweight and versatile jacket, perfect for mid-season. Durable material and premium finish.",
+                description: "Jaqueta leve e versátil, perfeita para meia estação. Material durável e acabamento premium.",
                 price: product.price * 4.95
             },
             4: {
                 title: "Camisa Social",
-                description: "Egyptian cotton dress shirt, slim fit. Perfect for formal occasions and work.",
+                description: "Camisa social de algodão egípcio, corte slim. Excelente para ocasiões formais e trabalho.",
                 price: product.price * 4.95
             },
             5: {
@@ -37,7 +37,7 @@ const Products = () => {
             },
             6: {
                 title: "Piercing Argola Articulada",
-                description: "Articulated Titanium Hoop Piercing with Zirconias for Ear, Conch, Helix, Daith, and Tragus - M2 Piercing.",
+                description: "Piercing Argola Articulada em Titânio com Zircônias para Orelha, Conch, Hélix, Daith e Tragus - M2 Piercing.",
                 price: product.price * 4.95
             }
         };
